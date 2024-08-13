@@ -1,0 +1,109 @@
+1) Cloud Computing
+https://www.canva.com/design/DAGKbcVOOpU/cEefbDuYLBrvSDpQ0cdLVw/edit?utm_content=DAGKbcVOOpU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+
+2) Linux Basics Commands
+https://www.canva.com/design/DAGKm-ELyZc/drAr3QTlYAzufrVxatMi7A/edit?utm_content=DAGKm-ELyZc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+
+3) EC2 Theory
+https://www.canva.com/design/DAGKDdFWS_w/5_Gk0AA2LEMX-Yvf5kLcbw/edit?utm_content=DAGKDdFWS_w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+4) EC2 Labtask
+https://www.canva.com/design/DAGKh1RYeGc/KBJYyfY03fIatNAtDF4LkA/edit?utm_content=DAGKh1RYeGc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+5) S3 Theory
+https://www.canva.com/design/DAGKFNEBrjg/sxs7VUHDkLhsYc_Fqth5JQ/edit?utm_content=DAGKFNEBrjg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+6) S3 labtask
+https://www.canva.com/design/DAGKtEqf2gs/xexbHARM3ZC8tad_4HiGsQ/edit?utm_content=DAGKtEqf2gs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+
+7) EBS Theory
+https://www.canva.com/design/DAGKhELBBP4/KNANYURGB93oSn3HKpXUSg/edit?utm_content=DAGKhELBBP4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+8) EBS Labtask
+https://www.canva.com/design/DAGKheR9a2o/2PejsqTRdYbbXyadqv_nvQ/edit?utm_content=DAGKheR9a2o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+
+9) ELB Theory
+https://www.canva.com/design/DAGKVjjXD94/g6OQSDdlSAoev7Zf8VQG3w/edit?utm_content=DAGKVjjXD94&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+10) ELB Labtask
+https://www.canva.com/design/DAGKpa0yqMY/_0aQaGXr2lpy_PBbA3U2GA/edit?utm_content=DAGKpa0yqMY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+11) IAM Theory
+https://www.canva.com/design/DAGK_qyuvTQ/F2AXhJGesetDGNIrOYizbg/edit?utm_content=DAGK_qyuvTQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+
+12) IAM Labtask
+https://www.canva.com/design/DAGLFUSYW2w/aJd3wUeZLipSUTXAwlUPmw/edit?utm_content=DAGLFUSYW2w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+
+13) Lambda Theory
+https://www.canva.com/design/DAGLBBFLpK0/F8uw8_lS_sQhAvFVvNh4HQ/edit?utm_content=DAGLBBFLpK0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+14) Lambda Labtask
+https://www.canva.com/design/DAGLSEuGF8g/7ftjBGklo5LDkUjjXWY9mQ/edit?utm_content=DAGLSEuGF8g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+
+15) RDS Theory
+https://www.canva.com/design/DAGKzvYtgQQ/6961QG_2qy0dT8Gzeix2Tg/edit?utm_content=DAGKzvYtgQQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+16) RDS Labtask
+https://www.canva.com/design/DAGLSBF4Nwk/fEATsePkTgwFePTbWkUZvQ/edit?utm_content=DAGLSBF4Nwk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+17) Cloud Watch
+https://www.canva.com/design/DAGK_cOK390/Vfe0RwwHu04SKCsso_YTpw/edit?utm_content=DAGK_cOK390&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+18) Route 53
+https://www.canva.com/design/DAGMlCTVODY/1NYi127i31QjHhM5C-OlCg/edit?utm_content=DAGMlCTVODY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+19) Cloud Front
+https://www.canva.com/design/DAGM9J9Hrt0/ukEzF20mbuFshfvfOKAecw/edit?utm_content=DAGM9J9Hrt0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+20) Cloud Trails
+https://www.canva.com/design/DAGNVDO0eNw/jQwQ5SVJpTVWuEooYB2VMA/edit?utm_content=DAGNVDO0eNw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+
+21) Autoscaling Theory
+https://www.canva.com/design/DAGK__XNaYg/gjS6suzev21VtL9obQ_rYA/edit?utm_content=DAGK__XNaYg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+
+22) Autoscaling Lab
+https://www.canva.com/design/DAGLFaoxq7c/xq9BzPXSrn4SM10V5CzqCQ/edit?utm_content=DAGLFaoxq7c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+
+21) VPC Theory
+https://www.canva.com/design/DAGKs2ZK5ak/aTwq9zFriQ2bR0LOhqjE3A/edit?utm_content=DAGKs2ZK5ak&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+
+22) VPC Labtask
+https://www.canva.com/design/DAGKKZBBVLE/Obo8WLQgp8_qprn1ZDee3g/edit?utm_content=DAGKKZBBVLE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+
+
+
+
